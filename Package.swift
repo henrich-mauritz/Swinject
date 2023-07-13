@@ -18,8 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "Swinject",
             url: "https://github.com/henrich-mauritz/Swinject/releases/download/2.8.3/Swinject.xcframework.zip",
-            checksum: "00f06199c25290c9e6f7d7f5f5412a188b30cef3af1291b7dd8a2a68fb58f17c"
+            checksum: "9627e5d88bb63f1ace682eee5513d78e67033bf9a3eac3f545ad4a60759b3b6e"
         )
     ]
 )
-
