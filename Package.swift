@@ -10,7 +10,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "Swinject",
+            name: "Swinject-Dynamic",
             targets: ["Swinject"]),
     ],
     dependencies: [],
