@@ -10,15 +10,15 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "Swinject-Dynamic",
+            name: "Swinject",
             targets: ["Swinject"]),
     ],
     dependencies: [],
     targets: [
         .binaryTarget(
             name: "Swinject",
-            url: "https://github.com/henrich-mauritz/Swinject/releases/download/2.8.7/Swinject.xcframework.zip",
-            checksum: "cabcf7fdbc20ebba1144ebb437158199294c09ec411d96e5ae235d0fa22076fe"
+            url: "https://github.com/henrich-mauritz/Swinject/releases/download/2.8.8/Swinject.xcframework.zip",
+            checksum: "640a9d9021e0f8b8bf0b41361608c9d640ae653d4c749245ef0fcd4b056596a7"
         )
     ]
 )
